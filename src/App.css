@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.h1{
+  
+  font-family: cursive;
+  font-size:30px;
+  margin-left: 40px;
+  font-style: bold;
+  display: inline-block;
+  font-size: 36px;
+  background: linear-gradient(to right, rgb(37, 40, 203) 0%, rgb(215, 21, 21) 50%, blue 50%);
+  display: inline-block;
+  font-size: 36px;
+  background: linear-gradient(to right, rgb(13, 101, 223) 0%, red 50%, rgb(120, 19, 221) 50%);
+  -webkit-background-clip: text;
+  
+  -webkit-text-fill-color: transparent;
+}
+.btn{
+  color: rgb(60, 15, 224);
+  background-color: rgb(155, 216, 22);
+  font-style: italic;
+  font-family:'Times New Roman', Times, serif;
+  border-radius:20px;
+  font-size:15px;
+  width: 150px;
+  padding: 5px;
+}
+.input1{
+  border-radius:15px;
+  padding: 5px;
+  width: 250px;
+}
